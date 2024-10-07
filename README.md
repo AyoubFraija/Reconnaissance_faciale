@@ -1,4 +1,4 @@
-# Plateforme de notification des présences par Reconnaissance Faciale 
+#Facial Recognition Attendance Notification Platform
 
 ## Table of Contents
 * [General Info](#general-information)
