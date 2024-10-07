@@ -3,7 +3,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Screenshots](#screenshots)
+* [How does it work ?](#How-does-it-work-?)
 <!-- * [License](#license) -->
 
 
@@ -21,10 +21,30 @@ The facial recognition system captures real-time video feed from a webcam, detec
 
 
 
-## Screenshots
-![Example screenshot](Screenshots/home1.PNG)
-![Example screenshot](screenshots/home2.PNG)
-![Example screenshot](screenshots/home3.PNG)
+## How does it work ?
+On the homepage, if you want to sign up, you enter your name and a password.
+
+![Example screenshot](Screenshots/home2.PNG)
+
+Once the account is created, you are redirected to the next page, which allows you to scan your face so that the system can recognize you later.
+
+![Example screenshot](Screenshots/scan1.PNG)
+![Example screenshot](Screenshots/scan2.png)
+
+ If you want to log in by entering your credentials, you will be redirected to the next page where the system will try to detect the face of the person who logged in.
+
+![Example screenshot](Screenshots/home3.PNG)
+![Example screenshot](Screenshots/detection1.PNG)
+
+ If it detects the user's face for 5 continuous seconds, their presence will be noted.
+
+![Example screenshot](Screenshots/detection2.PNG)
+![Example screenshot](Screenshots/final1.PNG)
+
+However, if it does not detect the face, the person will be marked as "Not detected."
+
+![Example screenshot](Screenshots/detection3.PNG)
+![Example screenshot](Screenshots/final2.PNG)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
