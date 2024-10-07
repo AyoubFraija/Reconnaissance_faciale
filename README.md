@@ -22,9 +22,9 @@ The facial recognition system captures real-time video feed from a webcam, detec
 
 
 ## Screenshots
-![Example screenshot](screenshots/screen_airflow1.jpg)
-![Example screenshot](screenshots/db.jpg)
-![Example screenshot](screenshots/Dashboard.jpg)
+![Example screenshot](Screenshots/home1.PNG)
+![Example screenshot](screenshots/home2.PNG)
+![Example screenshot](screenshots/home3.PNG)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
